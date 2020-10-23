@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋, Hirwa Blessing
 #### Frontend Developer
 ![Frontend Developer](https://www.upwork.com/profile-portraits/c1PiGxcF78cUIHC_Ubhr8_folV_bXOSdF6oMBNM8vv7B-d6MhUycigbyQ_xY89i-wN)
 
