@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Frontend Developer
-![Frontend Developer](https://github.com/hirwablessing/hirwablessing/blob/main/about-us.png)
+![Frontend Developer](https://www.upwork.com/profile-portraits/c1PiGxcF78cUIHC_Ubhr8_folV_bXOSdF6oMBNM8vv7B-d6MhUycigbyQ_xY89i-wN)
 
 I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web developer based in Kigali, Rwanda. I have four years of hands-on experience efficiently coding fun, creative and fast websites and applications using modern web technologies. I try to leave every snippet of code I touch more readable and even accessible than I found it.
 
