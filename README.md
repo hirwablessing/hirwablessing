@@ -11,8 +11,8 @@ I'm passionate about turning wireframes of the UX designer to life, building a s
 ⚛ React
 📱 React Native
 
-## Example of work
-<img src="https://media3.giphy.com/media/xT0Gqn9yuw8hnPGn5K/200w.webp?cid=ecf05e47xgaz7ge5lfjy1p8oxgud0qncznwnutwxqcpsd2ec&rid=200w.webp" width="256">
+## What I do 
+<img src="https://media2.giphy.com/media/PmAjqmm4beKervYzFr/200.webp?cid=ecf05e47xgaz7ge5lfjy1p8oxgud0qncznwnutwxqcpsd2ec&rid=200.webp" width="256">
 
 - 🔭 I’m currently working as a frontend freelancer on Upwork
 - 🌱 I’m currently learning Backend Development 
