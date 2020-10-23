@@ -1,12 +1,15 @@
-### Hi there 👋
-#### Frontend Developer
+### Hi there 👋, I'm Hirwa Blessing
 ![Frontend Developer](https://www.upwork.com/profile-portraits/c1PiGxcF78cUIHC_Ubhr8_folV_bXOSdF6oMBNM8vv7B-d6MhUycigbyQ_xY89i-wN)
 
+# Frontend Developer
 I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web developer based in Kigali, Rwanda. I have four years of hands-on experience efficiently coding fun, creative and fast websites and applications using modern web technologies. I try to leave every snippet of code I touch more readable and even accessible than I found it.
 
 I'm passionate about turning wireframes of the UX designer to life, building a state-of-the-art, easy to use, user-friendly websites and applications using web technologies like React, Ionic React,  and React Native.
 
-Skills: NODE JS / REACT / JS / HTML / CSS
+##Skills and Experience
+💻 HTML, CSS, JS
+⚛ React
+📱 React Native
 
 - 🔭 I’m currently working on as a freelancer on Upwork 
 - 🌱 I’m currently learning Backend Development 
