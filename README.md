@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hirwa Blessing
-![Frontend Developer](https://github.com/hirwablessing/hirwablessing/blob/main/pp5.jpg)
+![Frontend Developer](<img https://github.com/hirwablessing/hirwablessing/blob/main/pp5.jpg width="20" height="20"/>)
 
 # Hirwa Blessing
 I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web developer based in Kigali, Rwanda. I have four years of hands-on experience efficiently coding fun, creative and fast websites and applications using modern web technologies. I try to leave every snippet of code I touch more readable and even accessible than I found it.
