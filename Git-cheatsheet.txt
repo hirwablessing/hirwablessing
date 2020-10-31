@@ -2,3 +2,9 @@ How to remove the last commit on a remote repository
 
 -git reset HEAD^
 -git push origin +HEAD^:master (here you can replace "master" with your own branch for example "login")
+
+To force to remove the last commit from git,
+use these 2 following commands:
+
+git reset --hard HEAD^
+git push origin -f
