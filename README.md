@@ -9,7 +9,7 @@ I'm passionate about turning wireframes of the UX designer to life, building a s
 ## Skills and Experience
 💻 HTML, CSS, JS
 ⚛ React
- <img src="https://emojis.slackmojis.com/emojis/images/1487369371/1776/nodejs.png?1487369371"/>Node.js
+ <img src="https://emojis.slackmojis.com/emojis/images/1487369371/1776/nodejs.png?1487369371" height="24" width="24"/>Node.js
 📱 React Native
 
 ## What I do 
