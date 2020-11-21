@@ -9,7 +9,7 @@ I'm passionate about turning wireframes of the UX designer to life, building a s
 ## Skills and Experience
 💻 HTML, CSS, JS<br>
 ⚛ React<br>
- 
+:nodejs:
 📱 React Native
 
 ## What I do 
