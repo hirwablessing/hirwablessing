@@ -7,8 +7,8 @@ I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web de
 I'm passionate about turning wireframes of the UX designer to life, building a state-of-the-art, easy to use, user-friendly websites and applications using web technologies like React, Ionic React,  and React Native.
 
 ## Skills and Experience
-💻 HTML, CSS, JS
-⚛ React
+💻 HTML, CSS, JS<br>
+⚛ React<br>
  
 📱 React Native
 
