@@ -4,7 +4,7 @@ I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web de
 
 📧 Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@blessingartcreator-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/graphicblessing)](https://twitter.com/graphicblessing) [![Linkedin Badge](https://img.shields.io/badge/-Hirwa-Blessing-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/hirwa-blessing) [![Mail Badge](https://img.shields.io/badge/-@blessingartcreator-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/blessingartcreator/) [![Mail Badge](https://img.shields.io/badge/-hirwablessing-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hirwablessing7@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@blessingartcreator-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/graphicblessing)](https://twitter.com/graphicblessing) [![Linkedin Badge](https://img.shields.io/badge/-Blessing-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/hirwa-blessing) [![Mail Badge](https://img.shields.io/badge/-@blessingartcreator-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/blessingartcreator/) [![Mail Badge](https://img.shields.io/badge/-hirwablessing-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hirwablessing7@gmail.com)
 
 [![Mail Badge](https://img.shields.io/badge/-hirwablessing-black?style=flat&labelColor=black&logo=dev.to&logoColor=white)](https://dev.to/blessingartcreator)
 
