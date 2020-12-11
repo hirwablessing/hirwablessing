@@ -54,22 +54,8 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members
 
 #### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Javascript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
 <a href="https://github.com/hirwablessing/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hirwablessing&layout=compact&theme=blue-green" />
 </a>
 <!--END_SECTION:waka-->
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 </details>
