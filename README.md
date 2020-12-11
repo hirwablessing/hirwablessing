@@ -44,9 +44,6 @@ I give tutorials through writing blogs on [Dev.to](https://dev.to/blessingartcre
 <summary>
   More stuff about me
 </summary>
-
-<br >
-
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
 
 #### What is dev.to?
