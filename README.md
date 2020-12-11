@@ -42,13 +42,13 @@ I give tutorials through writing blogs on [Dev.to](https://dev.to/blessingartcre
 <details>
   <br><br>
 <summary>
-  More stuff about me
+  More about me
 </summary>
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why my Dev.to articles exists!
 
 #### What is dev.to?
 
-It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members
+It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members.
 
 #### Coding Stats
 <a href="https://github.com/hirwablessing/github-readme-stats">
