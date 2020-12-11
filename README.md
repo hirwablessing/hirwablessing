@@ -25,9 +25,7 @@ I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web de
 
 ### Tutorials
 
-[<img align="left" alt="React" width="26px" style="margin: 5px;" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />]
-
-I give tutorials through writing blogs on [Dev.to](https://dev.to/blessingartcreator)
+<img align="left" alt="React" width="26px" style="margin: 5px;" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" /> I give tutorials through writing blogs on [Dev.to](https://dev.to/blessingartcreator)
 
 
 #### Business
