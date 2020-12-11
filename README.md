@@ -1,22 +1,75 @@
-### Hi there 👋, I'm Hirwa Blessing
-<img src="https://www.upwork.com/profile-portraits/c1PiGxcF78cUIHC_Ubhr8_frl8x5EGcaJITVfOF8iOadSQdEUtCYN8FOYdXznnIcGR" alt="Front end developer"/>
+## Hi I'm Hirwa Blessing <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-# Hirwa Blessing
-I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web developer based in Kigali, Rwanda. I have four years of hands-on experience efficiently coding fun, creative and fast websites and applications using modern web technologies. I try to leave every snippet of code I touch more readable and even accessible than I found it.
+I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web developer and also a blogger on [Dev.to](https://dev.to/blessingartcreator) based in Kigali, Rwanda. I have four years of hands-on experience efficiently coding fun, creative and fast websites and applications using modern web technologies. I try to leave every snippet of code I touch more readable and even accessible than I found it.
 
-I'm passionate about turning wireframes of the UX designer to life, building a state-of-the-art, easy to use, user-friendly websites and applications using web technologies like React, Ionic React,  and React Native.
+📧 Reach me out!
 
-## Skills and Experience
-💻 HTML, CSS, JS<br>
-⚛ React<br>
-<img src="https://emojis.slackmojis.com/emojis/images/1487369371/1776/nodejs.png?1487369371" height="24" width="24"/>Node.js<br>
-📱 React Native
+[![Twitter Badge](https://img.shields.io/badge/-@blessingartcreator-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/graphicblessing)](https://twitter.com/graphicblessing) [![Linkedin Badge](https://img.shields.io/badge/-Blessing-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/hirwa-blessing) [![Mail Badge](https://img.shields.io/badge/-@blessingartcreator-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/blessingartcreator/) [![Mail Badge](https://img.shields.io/badge/-hirwablessing-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hirwablessing7@gmail.com)
 
-## What I do 
-<a link="https://hirwa-blessing.netlify.app"><img src="https://media2.giphy.com/media/PmAjqmm4beKervYzFr/200.webp?cid=ecf05e47xgaz7ge5lfjy1p8oxgud0qncznwnutwxqcpsd2ec&rid=200.webp" width="260" />
+[![Mail Badge](https://img.shields.io/badge/-hirwablessing-black?style=flat&labelColor=black&logo=dev.to&logoColor=white)](https://dev.to/blessingartcreator)
 
-- 🔭 I’m currently working as a frontend freelancer on Upwork
-- 🌱 I’m currently learning Backend Development 
-- 👯 I’m looking to collaborate on Fullstack and frontend projects  
+<!-- TODO: Add last video link -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/hirwablessing/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hirwa-blessing-086749188//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/blessingartcreator//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/graphicblessing)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hirwa-blessing.netlify.app/)  
+- 🔭 I’m currently working as a freelancer on **Upwork** (Professional Freelancing site).
+- 💻: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with Outstanding Video ideas.
+- 📫 How to reach me: hirwablessing7@gmail.com.
+- 😄 Pronouns: blessingartcreator, graphicblessing, stack.
+- ⚡ Fun fact: I play games and play sports very often.
+
+#### Top Technologies & Tools
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Html Badge](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](#) [![css Badge](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#) [![git Badge](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)](#) [![vscode Badge](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)](#) [![linux Badge](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#) 
+
+### Tutorials
+
+[<img align="left" alt="React" width="26px" style="margin: 5px;" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />][reactplaylist]
+
+I give tutorials through writing blogs on [Dev.to](https://dev.to/blessingartcreator)
+
+
+#### Business
+- 📎: [My Resume/CV](https://github.com/hirwablessing/hirwablessing/blob/main/Blessing_resume.pdf)
+- 📧: hirwablessing7@gmail.com
+
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hirwablessing.hirwablessing)
+
+<a href="https://github.com/hirwablessing/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hirwablessing&layout=compact&theme=blue-green" />
+</a>
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+
+#### What is dev.to?
+
+It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members
+
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+Javascript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+<!--END_SECTION:waka-->
+
+#### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
