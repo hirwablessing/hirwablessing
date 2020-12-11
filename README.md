@@ -39,11 +39,8 @@ I give tutorials through writing blogs on [Dev.to](https://dev.to/blessingartcre
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hirwablessing.hirwablessing)
 
-<a href="https://github.com/hirwablessing/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hirwablessing&layout=compact&theme=blue-green" />
-</a>
-
 <details>
+  <br><br>
 <summary>
   More stuff about me
 </summary>
@@ -66,6 +63,9 @@ Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
+<a href="https://github.com/hirwablessing/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hirwablessing&layout=compact&theme=blue-green" />
+</a>
 <!--END_SECTION:waka-->
 
 #### Github Stats
