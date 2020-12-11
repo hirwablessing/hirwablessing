@@ -12,7 +12,7 @@ I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web de
 
 - 🔭 I’m currently working as a freelancer on **Upwork** (Professional Freelancing site).
 - 💻: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🤔 I’m looking for help with Outstanding article ideas.
 - 📫 How to reach me: hirwablessing7@gmail.com.
 - 😄 Pronouns: blessingartcreator, graphicblessing, stack.
 - ⚡ Fun fact: I play games and play sports very often.
