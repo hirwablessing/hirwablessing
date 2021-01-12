@@ -15,7 +15,7 @@ I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web de
 - 🤔 I’m looking for help with Outstanding article ideas.
 - 📫 How to reach me: hirwablessing7@gmail.com.
 - 😄 Pronouns: blessingartcreator, graphicblessing, stack.
-- ⚡ Fun fact: I play games and play volleyball very often.
+- ⚡ Fun fact: I joke and play volleyball very often.
 
 #### Top Technologies & Tools
 
