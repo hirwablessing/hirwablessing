@@ -31,7 +31,7 @@ I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web de
 
 
 #### Business
-- 📎: [My Resume/CV](https://github.com/hirwablessing/hirwablessing/blob/main/Blessing_resume.pdf)
+- 📎: [My Resume/CV](https://github.com/hirwablessing/hirwablessing/blob/main/Hirwa_Blessing.pdf)
 - 📧: hirwablessing7@gmail.com
 
 
