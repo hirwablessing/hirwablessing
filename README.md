@@ -39,8 +39,6 @@ I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web de
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hirwablessing.hirwablessing)
 
-  <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=hirwablessing&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=tokyonight" /></p>
-
 
 <details>
   <br><br>
