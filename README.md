@@ -18,7 +18,7 @@ I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web de
 - ⚡ Fun fact: I joke and play volleyball very often.
 
 Recent work I've had honor working on:
-E-commerce store: https://hirwab--clone.web.app/
+E-commerce store: https://hirwab--clone.web.app/<br>
 Movie streaming website: https://netflix-clone-5966a.web.app/
 Disaster Management System: https://dms-demo.netlify.app/
 Chat Application: https://slack-clone-69ddc.web.app/
