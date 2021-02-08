@@ -17,7 +17,7 @@ I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web de
 - 😄 Pronouns: blessingartcreator, graphicblessing, stack.
 - ⚡ Fun fact: I joke and play volleyball very often.
 
-Recent work I've had honor working on:<br>
+**Recent work I've had honor working on:<br>**
 E-commerce store: https://hirwab--clone.web.app/<br>
 Movie streaming website: https://netflix-clone-5966a.web.app/<br>
 Disaster Management System: https://dms-demo.netlify.app/<br>
