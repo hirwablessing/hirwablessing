@@ -1,6 +1,6 @@
 ## Hi I'm Blessing Hirwa <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I’m Hirwa Blessing and I'm an experienced, detailed-oriented, front-end web developer and also a blogger on [Dev.to](https://dev.to/blessingartcreator) based in Kigali, Rwanda. I have four years of hands-on experience efficiently coding fun, creative and fast websites and applications using modern web technologies. I try to leave every snippet of code I touch more readable and even accessible than I found it.
+I’m Blessing Hirwa and I'm an experienced, detailed-oriented, front-end web developer and also a blogger on [Dev.to](https://dev.to/blessingartcreator) based in Kigali, Rwanda. I have four years of hands-on experience efficiently coding fun, creative and fast websites and applications using modern web technologies. I try to leave every snippet of code I touch more readable and even accessible than I found it.
 
 📧 Reach me out!
 
