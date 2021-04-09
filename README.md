@@ -2,7 +2,7 @@
 
 I’m Blessing Hirwa and I'm a fullstack FE heavy developer,  open source contributor and also a blogger on [Dev.to](https://dev.to/blessingartcreator) based in Kigali, Rwanda. I have three years of hands-on experience efficiently coding fun, creative and fast websites and applications using modern web technologies. I try to leave every line of code I touch more readable and even accessible than I found it.
 
-Know more about me on: https://hirwa-blessing.netlify.app/
+Know more about me on: https://blessinghirwa.tech/
 
 
 📧 Reach me out!
