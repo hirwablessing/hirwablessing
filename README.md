@@ -61,9 +61,10 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members.
 
-#### Coding Stats
+<!--#### Coding Stats
 <a href="https://github.com/hirwablessing/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hirwablessing&layout=compact&theme=blue-green" />
 </a>
 <!--END_SECTION:waka-->
 </details>
+-->
