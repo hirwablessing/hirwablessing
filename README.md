@@ -2,6 +2,9 @@
 
 I’m Blessing Hirwa and I'm a fullstack FE heavy developer,  open source contributor and also a blogger on [Dev.to](https://dev.to/blessingartcreator) based in Kigali, Rwanda. I have three years of hands-on experience efficiently coding fun, creative and fast websites and applications using modern web technologies. I try to leave every line of code I touch more readable and even accessible than I found it.
 
+Know more about me on: https://hirwa-blessing.netlify.app/
+
+
 📧 Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@blessingartcreator-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/graphicblessing)](https://twitter.com/graphicblessing) [![Linkedin Badge](https://img.shields.io/badge/-Blessing-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/hirwa-blessing) [![Mail Badge](https://img.shields.io/badge/-@blessingartcreator-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/blessingartcreator/) [![Mail Badge](https://img.shields.io/badge/-hirwablessing-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hirwablessing7@gmail.com)
@@ -67,4 +70,4 @@ It is a community of software developers who write articles, take part in discus
 </a>
 <!--END_SECTION:waka-->
 </details>
--->
+
