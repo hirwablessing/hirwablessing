@@ -17,6 +17,10 @@ I’m Blessing Hirwa and I'm a fullstack FE heavy developer,  open source contri
 - 😄 Pronouns: blessingartcreator, graphicblessing, stack.
 - ⚡ Fun fact: I joke and play volleyball very often.
 
+**Ongoing project:<br>**
+E-commerce store template in Next.js:  https://thebosses.vercel.app/
+
+
 **Recent work I've had honor working on:<br>**
 E-commerce store: https://hirwab--clone.web.app/<br>
 Movie streaming website: https://netflix-clone-5966a.web.app/<br>
