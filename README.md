@@ -44,7 +44,7 @@ Chat Application: https://slack-clone-69ddc.web.app/<br>
 
 
 #### Business
-- 📎: [My Resume/CV](https://github.com/hirwablessing/hirwablessing/blob/main/Hirwa_Blessing.pdf)
+- 📎: [My Resume/CV](https://github.com/hirwablessing/hirwablessing/blob/main/Blessing_Hirwa_Resume.pdf)
 - 📧: hirwablessing7@gmail.com
 
 
