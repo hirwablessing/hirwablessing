@@ -1,6 +1,10 @@
 ## Hi I'm Blessing Hirwa <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I’m Blessing Hirwa and I'm a fullstack FE heavy developer,  open source contributor and also a blogger on [Dev.to](https://dev.to/blessingartcreator) based in Kigali, Rwanda. I have three years of hands-on experience efficiently coding fun, creative and fast websites and applications using modern web technologies. I try to leave every line of code I touch more readable and even accessible than I found it.
+Hi there 👋,
+
+I'm Blessing Hirwa a high school student and open sourcer passionate about software engineering, science, blogging and music. From the moment I produced "Hello world" in the console of my first application, I knew I was hooked into the world of software engineering. But software engineering has never been "just a job" for me, it's offered me an engaging challenge to continually learn and improve my skills in creating high quality software. What started with a simple "Hello world" has become a full-fledged passion that only gets exciting as the years go by.
+
+Let's be friends! Connect with me on my socials below. Feel free to reach me through DMs. 
 
 Know more about me on: https://blessinghirwa.tech/
 
