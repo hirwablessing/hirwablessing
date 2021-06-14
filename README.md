@@ -34,10 +34,6 @@ Chat Application: https://slack-clone-69ddc.web.app/<br>
 
 #### Top Technologies & Tools
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-linux-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Html Badge](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) [![css Badge](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) [![git Badge](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#) [![vscode Badge](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)](#) [![linux Badge](https://img.shields.io/badge/-linux-61DBFB?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)
-
 *NOTE: Top languages or Coding stats does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ### Tutorials
