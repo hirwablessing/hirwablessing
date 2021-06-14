@@ -15,7 +15,6 @@ Know more about me on: https://blessinghirwa.tech/
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working as a freelancer on **Upwork** (Professional Freelancing site).
 - 💻: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding article ideas.
 - 📫 How to reach me: hirwablessing7@gmail.com.
