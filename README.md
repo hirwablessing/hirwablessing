@@ -22,13 +22,13 @@ Know more about me on: https://blessinghirwa.tech/
 - ⚡ Fun fact: I joke and play volleyball very often.
 
 **Ongoing project:<br>**
-E-commerce store template in Next.js and Node.js:  https://thebosses.vercel.app/
+<!-- E-commerce store template in Next.js and Node.js:  https://thebosses.vercel.app/ -->
 
 
 **Recent work I've had honor working on:<br>**
 E-commerce store: https://hirwab--clone.web.app/<br>
 Movie streaming website: https://netflix-clone-5966a.web.app/<br>
-Disaster Management System: https://dms-demo.netlify.app/<br>
+HabiTrail(Disaster Management System): https://habitrail.netlify.app//<br>
 Chat Application: https://slack-clone-69ddc.web.app/<br>
 
 #### Top Technologies & Tools
