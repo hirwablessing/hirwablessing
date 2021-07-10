@@ -21,7 +21,7 @@ Know more about me on: https://blessinghirwa.tech/
 - 😄 Pronouns: blessingartcreator, graphicblessing, stack.
 - ⚡ Fun fact: I joke and play volleyball very often.
 
-**Ongoing project:<br>**
+<!-- **Ongoing project:<br>** -->
 <!-- E-commerce store template in Next.js and Node.js:  https://thebosses.vercel.app/ -->
 
 
